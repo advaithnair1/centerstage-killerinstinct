@@ -1,4 +1,4 @@
-# FTC Robotics Codebase README
+# Killer Instinct A 2023-2024 FTC Codebase
 
 This repository contains the codebase for an FTC (FIRST Tech Challenge) robotics team. The code is written in Java and is designed to operate a robot during both driver-controlled and autonomous periods of a competition. Additionally, it includes four autonomous programs, each targeting a specific starting position on the field.
 
