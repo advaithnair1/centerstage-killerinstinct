@@ -10,10 +10,10 @@ This repository contains the codebase for an FTC (FIRST Tech Challenge) robotics
 
 ## Autonomous Programs
 
-- **centerstage_red_backdrop.java**: This program is specifically designed for the red alliance starting close to the backdrop.
-- **centerstage_red_no_backdrop.java**: This program is specifically designed for the red alliance starting far from the backdrop.
-- **centerstage_blue_backdrop.java**: This program is specifically designed for the blue alliance starting close to the backdrop.
-- **centerstage_blue_no_backdrop.java**: This program is specifically designed for the blue alliance starting far from the backdrop.
+- **centerstage_right_backdrop.java**: This program is specifically designed for the blue alliance starting close to the backdrop.
+- **centerstage_no_backdrop_right.java**: This program is specifically designed for the blue alliance starting far from the backdrop.
+- **centerstage_left_backdrop.java**: This program is specifically designed for the red alliance starting close to the backdrop.
+- **centerstage_no_backdrop_left.java**: This program is specifically designed for the red alliance starting far from the backdrop.
 
 Each autonomous program should include instructions to accomplish tasks and maneuvers based on the robot's initial position and game objectives.
 
